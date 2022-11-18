@@ -1,16 +1,13 @@
-### Hi there 👋
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=ThiagoEMatumoto&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300">
 
-<!--
-**ThiagoEMatumoto/ThiagoEMatumoto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://img.shields.io/static/v1?label=Overview&message=Thiago E. Matumoto&color=f8efd4&style=for-the-badge&logo=GitHub">
 
-Here are some ideas to get you started:
+<p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Estudante de Engenharia de Software na FIAP e trabalhando na **Sky.One Solutions** como desenvolvedor<br/>
+
+Eu sou desenvolvedor **Back-end**.
+
+
+</p>
+<hr>
