@@ -1,16 +1,18 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=ThiagoEMatumoto&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300">
-
-<img src="https://img.shields.io/static/v1?label=Overview&message=Thiago E. Matumoto&color=f8efd4&style=for-the-badge&logo=GitHub">
-
-<p>
-
-Estudante de Engenharia de Software na FIAP e trabalhando na **Sky.One Solutions** como desenvolvedor<br/>
-
-Eu sou desenvolvedor **Back-end**.
+# 💫 About Me:
+🔭Fascinado pela lógica e inovação, a capacidade de criar e desenvolver soluções<br>🌱 Sucesso é um estado de espírito<br>💬 Por hora, focado no desenvolvimento Back-end<br>⚡ Amor pelos animes e jogos
 
 
-</p>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thiagomatumoto) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/thiago-eiji-matumoto) 
 
-## Redes sociais
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-eiji-matumoto/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thiagoeijimatumoto@gmail.com)
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat-square&logo=flask&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat-square&logo=jira&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=flat-square&logo=confluence&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ThiagoEMatumoto&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ThiagoEMatumoto&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoEMatumoto&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=ThiagoEMatumoto&icon=2&color=1)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
