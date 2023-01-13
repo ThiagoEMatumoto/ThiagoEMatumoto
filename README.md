@@ -1,5 +1,5 @@
-# 💫 About Me:
-🔭Fascinado pela lógica e inovação, a capacidade de criar e desenvolver soluções<br>🌱 Sucesso é um estado de espírito<br>💬 Por hora, focado no desenvolvimento Back-end<br>⚡ Amor pelos animes e jogos
+# About Me:
+🔭Fascinado pela lógica e inovação, a capacidade de criar e desenvolver soluções<br>🌱 Sucesso é um estado de espírito<br>💬 Por hora, focado no desenvolvimento Back-end e dados<br>⚡ Amor pelos animes e jogos
 
 
 ## 🌐 Socials:
