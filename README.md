@@ -1,5 +1,5 @@
 # About Me:
-🔭Fascinado pela lógica e inovação, a capacidade de criar e desenvolver soluções<br>⏳Tempo é o nosso bem mais precioso <br>💬 Desenvolvimento Backend e dados<br>❤️ Amor pelos animes e jogos
+🔭Fascinado pela lógica e inovação, a capacidade de criar e desenvolver soluções<br>⏳Tempo é o nosso bem mais precioso <br>💬 Desenvolvimento Backend<br>❤️ Amor pelos animes e jogos
 
 
 ## 🌐 Socials:
