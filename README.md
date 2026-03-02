@@ -1,7 +1,5 @@
 # Thiago Eiji Matumoto
 
-Desenvolvedor de software na **Juristech**, focado em sistemas de extração de dados jurídicos, automação e integrações com APIs governamentais.
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-eiji-matumoto/)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/339161512625045504)
 
